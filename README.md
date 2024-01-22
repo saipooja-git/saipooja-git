@@ -1,4 +1,7 @@
 ### Hi there 👋
+It's my personal repository.
+All the content nowadays is stored in Github
+Name: Sai Pooja Reddy Palle
 
 <!--
 **saipooja-git/saipooja-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
